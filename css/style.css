@@ -1,0 +1,116 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style6,
+  .style7 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070
+  }
+  .style6 {
+    display: flex;
+    margin-top: 96px;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 55px;
+    width: 282px;
+    height: 101px
+  }
+  .style7 {
+    margin-left: 24px;
+    width: 79px;
+    height: 66px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style6,
+  .style7 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070
+  }
+  .style6 {
+    display: flex;
+    margin-top: 197px;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 113px;
+    width: 578px;
+    height: 207px
+  }
+  .style7 {
+    margin-left: 49px;
+    width: 162px;
+    height: 135px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style6,
+  .style7 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070
+  }
+  .style6 {
+    display: flex;
+    margin-top: 236px;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 135px;
+    width: 692px;
+    height: 248px
+  }
+  .style7 {
+    margin-left: 59px;
+    width: 194px;
+    height: 162px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style6,
+  .style7 {
+    background-color: #fff;
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070
+  }
+  .style6 {
+    display: flex;
+    margin-top: 307px;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 176px;
+    width: 902px;
+    height: 323px
+  }
+  .style7 {
+    margin-left: 77px;
+    width: 253px;
+    height: 211px
+  }
+}
